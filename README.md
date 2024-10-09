@@ -3,6 +3,7 @@
 - [Presentación del curso](https://github.com/user-attachments/files/17227643/TALLER.GRADOS.2024.pdf)
 - [Proyecto Zeeschuimmer (DMI-TCAT)](https://github.com/digitalmethodsinitiative/zeeschuimer)
 - [Fox Scroller (Addon para Firefox)](https://addons.mozilla.org/es/firefox/addon/foxscroller/)
+- [Enlace a los datos](https://we.tl/t-CheSsWrTtd)
 - [Gephi](https://gephi.org/)
 - [Notebook para el análisis de datos de X: Redes de hashtags](https://colab.research.google.com/drive/1KK9DRrZFhXW606auDOfjoUbPnn6irKzK?usp=sharing)
 
