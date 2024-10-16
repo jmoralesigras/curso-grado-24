@@ -3,7 +3,8 @@
 - [Presentación del curso](https://github.com/user-attachments/files/17227643/TALLER.GRADOS.2024.pdf)
 - [Proyecto Zeeschuimmer (DMI-TCAT)](https://github.com/digitalmethodsinitiative/zeeschuimer)
 - [Fox Scroller (Addon para Firefox)](https://addons.mozilla.org/es/firefox/addon/foxscroller/)
-- [Enlace a los datos](https://we.tl/t-fZgdqy6az3)
+- [Enlace a los datos](https://we.tl/t-fZgdqy6az3)[Uploading tweet_network_upv-ehu.graphml…]()
+- [Redes de la UPV-EHU](https://github.com/user-attachments/files/17396126/networks_upv-ehu.zip)
 - [Gephi](https://gephi.org/)
 - [Notebook para el análisis de datos de X: Redes de hashtags](https://colab.research.google.com/drive/1KK9DRrZFhXW606auDOfjoUbPnn6irKzK?usp=sharing)
 
