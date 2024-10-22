@@ -7,7 +7,7 @@
 - [Redes de la UPV-EHU](https://github.com/user-attachments/files/17396126/networks_upv-ehu.zip)
 - [Recolector de datos de los propios seguidores de Instagram (Usar con precaución!)](https://chromewebstore.google.com/detail/igfet-ig-follower-export/hiogngllioijgkfhokadpelhibgmnhag)
 - [Recolector de datos de los propios seguidores de Twitter (Usar con precaución!)](https://chromewebstore.google.com/detail/xexport-export-twitter-fo/cppccmpggnomnbajdchpjahagpockdmc)
-- [Datos de Instagram y Twitter para las redes personales](https://github.com/user-attachments/files/17481374/Ig-x-data.zip)
+- [Datos de Instagram y Twitter para las redes personales](https://github.com/user-attachments/files/17481445/Ig-x-data.zip)
 - [Gephi](https://gephi.org/)
 - [Notebook para el análisis de datos de X: Redes de hashtags](https://colab.research.google.com/drive/1KK9DRrZFhXW606auDOfjoUbPnn6irKzK?usp=sharing)
 - [Notebook para la creación de una red de embeddings](https://colab.research.google.com/drive/1I-DFOvwy1aHCuS0U3nb7qXJWLgo4roaR?usp=sharing)
