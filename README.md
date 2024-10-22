@@ -10,6 +10,7 @@
 - [Datos de Instagram y Twitter para las redes personales](https://github.com/user-attachments/files/17481374/Ig-x-data.zip)
 - [Gephi](https://gephi.org/)
 - [Notebook para el análisis de datos de X: Redes de hashtags](https://colab.research.google.com/drive/1KK9DRrZFhXW606auDOfjoUbPnn6irKzK?usp=sharing)
+- [Notebook para la creación de una red de embeddings](https://colab.research.google.com/drive/1I-DFOvwy1aHCuS0U3nb7qXJWLgo4roaR?usp=sharing)
 
 ## Otros notebooks
 - [Notebook para el análisis de datos de X: Redes de menciones y de keywords](https://colab.research.google.com/drive/1Y2hMdwIz8eFYLYe23F7hqq7rRhKtQ_8K?usp=sharing)
