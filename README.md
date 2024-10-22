@@ -5,6 +5,7 @@
 - [Fox Scroller (Addon para Firefox)](https://addons.mozilla.org/es/firefox/addon/foxscroller/)
 - [Enlace a los datos](https://we.tl/t-fZgdqy6az3)
 - [Redes de la UPV-EHU](https://github.com/user-attachments/files/17396126/networks_upv-ehu.zip)
+- [Recolector de datos de los propios seguidores de Instagram (Usar con precaución!)](https://chromewebstore.google.com/detail/igfet-ig-follower-export/hiogngllioijgkfhokadpelhibgmnhag)
 - [Gephi](https://gephi.org/)
 - [Notebook para el análisis de datos de X: Redes de hashtags](https://colab.research.google.com/drive/1KK9DRrZFhXW606auDOfjoUbPnn6irKzK?usp=sharing)
 
